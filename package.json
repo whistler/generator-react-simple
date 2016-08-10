@@ -1,0 +1,17 @@
+{
+  "name": "generator-react-simple",
+  "version": "0.1.0",
+  "description": "Simple React boilerplate with Webpack, Babel, Standard and Hot Module Reloader",
+  "files": [
+    "app"
+  ],
+  "main": "index.js",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Ibrahim Muhammad",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
