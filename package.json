@@ -1,6 +1,6 @@
 {
   "name": "generator-react-simple",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Simple React boilerplate with Webpack, Babel, Standard and Hot Module Reloader",
   "files": [
     "app"
